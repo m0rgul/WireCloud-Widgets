@@ -1,0 +1,33 @@
+.factoryImage, .factoryName {
+    position: relative;
+    display: inline;
+    vertical-align: middle;
+}
+
+.factoryImage {
+    max-height: 100px;
+}
+
+.factoryName {
+    font-size: 26px;
+    color: #6495ed;
+    font-weight: bold;
+}
+
+.factoryDescription, .factoryMachines, .factoryMaterials {
+    font-size: 13px;
+    color: #333;
+}
+
+.factoryDescription {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.factoryRow {
+    margin: 15px 5px;
+}
+
+
+

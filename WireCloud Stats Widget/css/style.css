@@ -1,0 +1,46 @@
+#statsContainer img {
+    max-height: 80px;
+    position: relative;
+    margin: 10px auto;
+}
+
+#statsContainer h2 {
+    margin-bottom: 10px;
+}
+
+#statsContainer .row {
+    margin: 5px 0;
+}
+
+#statsContainer .fa {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+#statsContainer .printers,
+#statsContainer .factories,
+#statsContainer .clients,
+#statsContainer .orders,
+#statsContainer .materials {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    margin-left: 3px;
+}
+
+#values {
+    padding-top: 10px;
+}
+
+#values span {
+    font-size: 20px;
+    color: #999;
+    margin-left: 3px;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
